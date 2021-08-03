@@ -91,15 +91,17 @@ button:hover {
   border: 3px solid #ffbc00;
 }
 .wbtd {
-  max-width: 148px;
-  height: 148px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0.5;
-  z-index: -1;
-  font-size: 200px;
-  line-height: 148px;
+width: 0;
+    height: 0;
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    margin: 10px;
+    opacity: 0.5;
+    z-index: -1;
+    font-size: 170px;
+    text-align: center;
+    line-height: 100px;
 }
 #big-winner {
   transition: 0.3s;
