@@ -134,6 +134,15 @@ nav#main-nav {
   footer {
     display: none;
   }
+    section {
+    display: block;
+    padding-bottom: 345px;
+    font-size: 0.77em;
+  }
+  .left-block,
+  .right-block {
+    width: 100%;
+  }
 
 }
 
