@@ -5,7 +5,7 @@ document.write(
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pet-projects by Ivan Plotnikov</title>
+    <title>Pet-projects</title>
     <link rel="stylesheet" href="${location.origin}/the-first-portfolio-page/style.css">
 </head>
 <body>
