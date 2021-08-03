@@ -11,7 +11,7 @@ document.body.innerHTML+=
     </div>
     </footer>
     </div>
-    <script src="${location.origin}/script.js"></script>
+    <script src="${location.origin}/the-first-portfolio-page/script.js"></script>
     </body>
     </html>
     `
