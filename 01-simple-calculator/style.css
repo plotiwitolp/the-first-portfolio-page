@@ -1,0 +1,32 @@
+.simple-calculator {
+  max-width: 500px;
+  text-align: center;
+  background-color: #f0f8ff66;
+  padding: 20px;
+  border: 1px solid #fff;
+}
+.simple-calculator .operations-block button {
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+  cursor: pointer;
+}
+.simple-calculator .inputs-block .input-block label {
+  display: block;
+}
+.simple-calculator .inputs-block .input-block {
+  display: inline-block;
+  padding: 10px;
+}
+.simple-calculator .display input#display {
+  background-color: #fffffffa;
+  color: #000000eb;
+  border: 1px solid #000;
+}
+input {
+  height: 30px;
+  font-size: 16px;
+  padding: 0 10px;
+  /* margin: 0; */
+  line-height: 30px;
+}
